@@ -1,4 +1,4 @@
-# Drug repurposing of bromodomain inhibitors as a novel therapeutic for lymphatic filariasis guided by multi-species transcriptomics
+# Drug repurposing of bromodomain inhibitors as a novel therapeutic lead for lymphatic filariasis guided by multi-species transcriptomics
 
 Matthew Chung
 
