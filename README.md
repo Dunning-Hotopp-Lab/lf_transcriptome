@@ -4,8 +4,6 @@ Matthew Chung
 
 2019-09-17
 
-[![DOI](https://zenodo.org/badge/209141734.svg)](https://zenodo.org/badge/latestdoi/209141734)
-
 The repository contains scripts and input_data_files to replicate the transcriptomics analysis in the manuscript. Additionally, the Supplementary Data for the manuscript is stored here.
 
 ## System requirements
